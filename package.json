@@ -1,0 +1,14 @@
+{
+  "name": "whataboutcoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kind & Costaaa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
